@@ -21,6 +21,3 @@ Marker Cluster
 The Marker Cluster displays the exact location with a pin, as well as the density of resale units by grouping and displaying the values accordingly upon clicking the values or zooming out. 
 More details can be display upon clicking the pins.
 
-Posting the interactive map online
-==
-Click here to see the Interactive Geospatial Visualisation map.
